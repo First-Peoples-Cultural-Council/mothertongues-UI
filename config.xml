@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="10000" id="org.mothertongues.mtdui" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>mothertongues-UI</name>
+<widget id="org.mothertongues.mtdui" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" android-packageName="ca.fpcc.smalgyax" android-versionCode="10000" ios-CFBundleIdentifier="ca.fpcc.smalgyax" version="1.0">
+    <name>Sm'algya̱x</name>
     <description />
-    <author email="info@mothertongues.org" href="http://mothertongues.org/">Aidan Pine</author>
+    <author email="chad@fpcc.ca" href="https://fpcc.ca/">Chad Oakenfold</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
