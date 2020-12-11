@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-packageName="ca.fpcc.smalgyax" android-versionCode="10002" id="org.mothertongues.mtdui" ios-CFBundleIdentifier="ca.fpcc.smalgyax" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Smalgyax</name>
+<widget android-packageName="com.firstvoices.tseshaht" android-versionCode="10004" id="org.mothertongues.mtdui" ios-CFBundleIdentifier="com.firstvoices.tseshaht" version="1.4" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>c̓išaaʔatḥ</name>
     <description />
     <author email="chad@fpcc.ca" href="https://fpcc.ca/">Chad Oakenfold</author>
     <content src="index.html" />
