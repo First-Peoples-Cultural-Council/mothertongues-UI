@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-packageName="ca.fpcc.smalgyax" android-versionCode="10002" id="org.mothertongues.mtdui" ios-CFBundleIdentifier="ca.fpcc.smalgyax" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget android-packageName="ca.fpcc.smalgyax" android-versionCode="10003" id="org.mothertongues.mtdui" ios-CFBundleIdentifier="ca.fpcc.smalgyax" version="1.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Smalgyax</name>
     <description />
     <author email="chad@fpcc.ca" href="https://fpcc.ca/">Chad Oakenfold</author>
