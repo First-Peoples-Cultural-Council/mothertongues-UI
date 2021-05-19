@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-packageName="com.firstvoices.<APP_ID>" android-versionCode="10000" ios-CFBundleIdentifier="com.firstvoices.<APP_ID>"  version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget
+	android-packageName="com.firstvoices.<APP_ID>"
+	android-versionCode="10000"
+	ios-CFBundleIdentifier="com.firstvoices.<APP_ID>"
+	version="1.0"
+	xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name><APP_NAME></name>
     <description />
     <author email="hello@firstvoices.com" href="https://firstvoices.com/">FPCC</author>
