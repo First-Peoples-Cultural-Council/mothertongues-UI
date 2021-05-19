@@ -28,6 +28,26 @@ This is a basic [Ionic](https://ionicframework.com/) app for displaying Mother T
 In order to use MTD-UI you must have a generated language configuration file and generated dictionary data from [MTD](https://github.com/roedoejet/mothertongues). 
 Then, either fork or clone this repo and put those files in either the `www/assets/js/` folder right away or in `src/assets/js/` in order to build the app from source.
 
+## Audio Verification
+
+If you wish to verify the audio used for this app, run:
+
+```
+npm run verify:data > audio-fix.tmp
+```
+
+The results will be in the `audio-fix.tmp` file. This operation may take some time depending on the size of the dictionary.
+
+**Note** This verification should have already happened during the export to MotherTongues format, and before creating the dictionary export. Only use this in rare cases (for example when community reports broken$
+
+You can then act on your verification output using:
+
+```
+npm run verify:data:fix
+```
+
+This will attempt to download missing files from FirstVoices, then upload them to S3. You must have AWS CLI configured locally for this to work. You can also attempt these fixes manually.
+
 ## Contributing
 
 PRs accepted. If you would like to create more MTD-UIs those are also accepted.

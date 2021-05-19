@@ -7,6 +7,8 @@
   "scripts": {
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
+    "verify:data": "node scripts/verify.js",
+    "verify:data:fix": "node scripts/verify-fix.js",
     "ionic:build": "ionic-app-scripts build",
     "ionic:serve": "ionic-app-scripts serve",
     "minify": "uglifyjs src/assets/js/mtd.js src/assets/js/levenshtein.js src/assets/js/editDistance.js src/assets/js/utility.js src/assets/js/deadSearch.js -o src/assets/js/mtd-ui.min.js"
