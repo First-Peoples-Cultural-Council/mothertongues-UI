@@ -26,19 +26,8 @@ node_modules/
 tmp/
 temp/
 hooks/
-platforms/*
-!platforms/ios
-platforms/ios/*
-!platforms/ios/fastlane
-!platforms/ios/Gemfile
-!platforms/ios/Gemfile.lock
-!platforms/ios/.ruby-version
-!platforms/android
-platforms/android/*
-!platforms/android/fastlane
-plugins/
+
 plugins/android.json
-plugins/ios.json
 /
 $RECYCLE.BIN/
 
