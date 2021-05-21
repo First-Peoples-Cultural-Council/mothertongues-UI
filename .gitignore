@@ -19,7 +19,6 @@ npm-debug.log*
 .editorconfig
 .sourcemaps
 .versions/
-package-lock.json
 coverage/
 dist/
 node_modules/
